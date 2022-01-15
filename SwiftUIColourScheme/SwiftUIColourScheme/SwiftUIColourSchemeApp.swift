@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIColourSchemeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ColourNaming()
         }
     }
 }
