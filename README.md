@@ -1,5 +1,4 @@
-# SwiftUI: Create a new color scheme 
-## _step by step_
+# SwiftUI: Create and manage your own colors
 
 ¡Hola mundo!
 
